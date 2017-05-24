@@ -1,0 +1,12 @@
+.class {
+  color: white;
+}
+
+.anotherClass {
+  color: red;
+
+}
+
+.thirdStyle {
+  counter-reset: inherit;
+}
