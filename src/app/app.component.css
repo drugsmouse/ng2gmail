@@ -5,3 +5,7 @@
 .anotherClass {
   color: red;
 }
+
+.thirdStyle {
+  counter-reset: inherit;
+}
